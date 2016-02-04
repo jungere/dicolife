@@ -1,0 +1,25 @@
+{
+  "name": "youdu",
+  "description": "youdu webApp",
+  "main": "index.js",
+  "authors": [
+    "dico.zhang"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "underscore": "~1.8.3"
+  },
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
